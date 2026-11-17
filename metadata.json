@@ -1,0 +1,6 @@
+{
+  "name": "Panchkathia Bazar Village App",
+  "description": "Local village services, directory, emergency contacts, notices, and ride booking app for Panchkathia Bazar, Barhait, Sahibganj (816102).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
